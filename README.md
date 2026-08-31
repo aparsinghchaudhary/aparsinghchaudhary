@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1><code>[YOUR_NAME]</code></h1>
-<h3><code>[YOUR_TITLE]</code></h3>
+<h1><code>APAR SINGH CHAUDHARY</code></h1>
+<h3><code>WEB DEVELOPER / SOFTWARE DEVELOPER</code></h3>
 
 </div>
 
-<h3><code>The Cipher Stack</code></h3>
+
 
 <table>
 <tr>
